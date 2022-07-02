@@ -1,0 +1,14 @@
+.HomeMainDiv{
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    gap:10px;
+}
+.HomeMainDiv div { 
+     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;;
+}
+.HomeMainDiv img{
+    width:100%;
+
+}
